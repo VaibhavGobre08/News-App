@@ -30,4 +30,5 @@ Access the application seamlessly on different devices with a user-friendly and 
 Engage with the dynamic platform to stay informed on a variety of news topics.
 
 ```bash
-git clone https://github.com/your-username/dailyhunts-news-web-app.git
+git clone https://github.com/VaibhavGobre08/News-App.git
+ 
