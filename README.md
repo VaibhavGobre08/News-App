@@ -7,7 +7,7 @@ Welcome to the DailyHunts News Web Application project! This web application is 
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-
+- [Screenshot](#Screenshot)
 ## Overview
 This project is a dynamic web application that aggregates news articles from different sources, allowing users to stay informed on a variety of topics. It is implemented with HTML, CSS, and JavaScript, providing a responsive and engaging user experience.
 
@@ -28,6 +28,10 @@ Utilize the search bar to find articles based on specific topics or keywords.
 Access the application seamlessly on different devices with a user-friendly and responsive interface.
 4. Stay Informed
 Engage with the dynamic platform to stay informed on a variety of news topics.
+
+## Screenshot 
+![news](https://github.com/VaibhavGobre08/News-App/assets/95280777/5a632113-03df-4d48-9c47-0bbea85a64e4)
+
 
 ```bash
 git clone https://github.com/VaibhavGobre08/News-App.git
